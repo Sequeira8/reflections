@@ -1,0 +1,40 @@
+- Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+O camando diff permite verificar quais as diferenças entre as linhas de cada ficheiro, sendo assim mais fácil a identificação pois estaremos apenas a procurar em um numero reduzido de linhas.
+
+
+
+- Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+Permite o retorno a uma versão anterior caso tenha cometido um erro e originado um bug ou até permite testar a eficacia de diferentes versoes na resolução do objetivo em questao.
+
+
+
+- Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+Pros: permite guardar versoes de alterações significativas no projeto evitando versoes que nao correspondam a qualquer diferença
+Contras: e necessario ao utilizador criar essas versoes e ter noção das melhores alturas para serem criadas
+
+
+
+- Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+Cada sistema está desenhado para a maior probabilidade de algo acontecer, enquanto o git é normalmente usado para multiplos ficheiros de uma vez, o google docs geralmente utiliza apenas um ficheiro
+
+
+
+- How can you use the commands git log and git diff to view the history of files?
+
+Git log lets me see all the diferent versions of the program that were saved while git diff lets me compare two of the versions to see what was added or deleted on them. Both give me the history and details of the files
+
+
+
+- How might using version control make you more confident to make changes that could break something?
+
+Version control allows me to easily go back to an older version to fix a bug, and also search for the version that caused the bug in the first place
+
+
+
+- Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use for all my different projects
